@@ -2,14 +2,14 @@
   "opinions": [
     {
       "id": 1716365522254,
-      "votes": 2,
+      "votes": 5,
       "userName": "Maximilian",
       "title": "Form Actions are new!",
       "body": "A new feature added by React 19."
     },
     {
       "id": 1716365070273,
-      "votes": 0,
+      "votes": 3,
       "userName": "Max",
       "title": "React is great!",
       "body": "I really like it a lot - everyone should learn it!"
