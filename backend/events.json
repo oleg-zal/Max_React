@@ -2,10 +2,17 @@
   "events": [
     {
       "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
+      "image": "https://spot-bremen.de/app/uploads/2019/01/Innen_Stadtteilfiliale3-300x169.jpg",
       "date": "2022-10-01",
       "description": "Some awesome event!",
       "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
+    },
+    {
+      "title": "A second event",
+      "image": "https://spot-bremen.de/app/uploads/2019/01/Innen_Stadtteilfiliale5-300x169.jpg",
+      "date": "2023-10-01",
+      "description": "Some second event!",
+      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66aa"
     }
   ],
   "users": []
